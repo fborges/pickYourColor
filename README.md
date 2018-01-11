@@ -1,5 +1,3 @@
-[![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg?style=plastic)](https://github.com/feliborgez/pickYourColor)
-
 <p align="center">
   <a href="">
     <img alt="Logo" src="pickYourColor.png" width=296 height=404>
